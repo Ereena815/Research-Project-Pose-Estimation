@@ -70,7 +70,7 @@ By focusing on these crucial aspects, the implementation section provides a conc
 ![image](https://github.com/Ereena815/Research-Project-Pose-Estimation/assets/85027159/8e12645e-6775-4c73-b697-aab41c303d4d)
 
 ### Demonstration Video Link: 
-https://www.youtube.com/watch?v=yHCX1u5-rrk
+
 
 ## Evaluation 
 
